@@ -47,6 +47,3 @@ Zostały dokonane następujące kroki badawcze przygotowujące zbiór danych i m
 Zostały otrzymane następujące wyniki prognozy dla zbioru danych na kolejne 52 tygodnie od 2022-12-18 do 2023-12-10
 
 ![Example screenshot](./figure/Figure_11.png)
-
-Pełen opis projektu znajduję się w stworzonym raporcie: [_raport z projektu_](https://docs.google.com/document/d/1mJLslMJ6Cj-UcO4bnO7-YmlLV5nHEok-/edit?usp=share_link&ouid=110070363137970605267&rtpof=true&sd=true)
-
